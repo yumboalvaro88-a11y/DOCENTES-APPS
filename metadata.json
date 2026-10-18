@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Calificaciones",
+  "description": "Sistema completo para docentes: planilla de calificaciones tipo hoja de cálculo, importación de nóminas en Excel, control de tareas y días de atraso, reportes y código Android completo con Room y Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
